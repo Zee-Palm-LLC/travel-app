@@ -6,6 +6,5 @@ Travel App UI done with Flutter 3.7.0
 
 This project includes Travel App UI with welcome and location screens.
 
-<img src="https://user-images.githubusercontent.com/128903428/232055052-a5d46cbc-40fe-4c6e-8307-f497f7f0c255.png" width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/128903428/232055431-4f96a7bc-27aa-4276-9ee6-7b26c18fb059.png" width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/128903428/232055954-6f2b8961-368d-4ae1-9ed5-d892cd87b4e3.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/233359539-7ec73f89-4ddb-40cf-abc3-90c855a9e396.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/233359647-fad8dff6-5f72-4f46-9b03-084a93098b40.png" width="200" height="400" />
